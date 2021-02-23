@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SchistBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SchistBrick"
+      },
+      {
+        "value": "CUSTOM:SchistBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SchistBrick"
+      },
+      {
+        "value": "CUSTOM:SchistBrick"
+      },
+      {
+        "value": "CUSTOM:SchistBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SchistBrickStairs"
+    },
+    "name": "schist_brick_stairs_recipe",
+    "namespace": "mod"
+  }
+}

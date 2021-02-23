@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "simplystonework7513:blocks/peg_bricks_new",
+    "particle": "simplystonework7513:blocks/peg_bricks_new"
+  }
+}

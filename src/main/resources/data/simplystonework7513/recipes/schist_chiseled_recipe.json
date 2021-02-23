@@ -1,0 +1,20 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:schist_brick_slab"
+    },
+    "1": {
+      "item": "simplystonework7513:schist_brick_slab"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:schist_chiseled",
+    "count": 1
+  }
+}

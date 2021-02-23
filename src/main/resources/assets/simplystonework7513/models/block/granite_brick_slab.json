@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/granite_bricks",
+    "top": "simplystonework7513:blocks/granite_bricks",
+    "side": "simplystonework7513:blocks/granite_bricks"
+  }
+}

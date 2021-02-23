@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "simplystonework7513:block/shale_polished_slab"
+    },
+    "type=top": {
+      "model": "simplystonework7513:block/shale_polished_slab_top"
+    },
+    "type=double": {
+      "model": "simplystonework7513:block/shale_polished_slab_full"
+    }
+  }
+}

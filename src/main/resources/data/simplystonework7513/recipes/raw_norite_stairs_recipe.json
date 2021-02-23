@@ -1,0 +1,33 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:norite"
+    },
+    "3": {
+      "item": "simplystonework7513:norite"
+    },
+    "4": {
+      "item": "simplystonework7513:norite"
+    },
+    "6": {
+      "item": "simplystonework7513:norite"
+    },
+    "7": {
+      "item": "simplystonework7513:norite"
+    },
+    "8": {
+      "item": "simplystonework7513:norite"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:raw_norite_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "simplystonework7513:blocks/diorite_bricks",
+    "particle": "simplystonework7513:blocks/diorite_bricks"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:granite_bricks"
+    },
+    "3": {
+      "item": "simplystonework7513:granite_bricks"
+    },
+    "4": {
+      "item": "simplystonework7513:granite_bricks"
+    },
+    "6": {
+      "item": "simplystonework7513:granite_bricks"
+    },
+    "7": {
+      "item": "simplystonework7513:granite_bricks"
+    },
+    "8": {
+      "item": "simplystonework7513:granite_bricks"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:granite_brick_stairs",
+    "count": 4
+  }
+}

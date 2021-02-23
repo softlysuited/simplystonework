@@ -1,0 +1,33 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:diorite_bricks"
+    },
+    "3": {
+      "item": "simplystonework7513:diorite_bricks"
+    },
+    "4": {
+      "item": "simplystonework7513:diorite_bricks"
+    },
+    "6": {
+      "item": "simplystonework7513:diorite_bricks"
+    },
+    "7": {
+      "item": "simplystonework7513:diorite_bricks"
+    },
+    "8": {
+      "item": "simplystonework7513:diorite_bricks"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:diorite_brick_stairs",
+    "count": 4
+  }
+}

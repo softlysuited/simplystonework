@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplystonework7513:blocks/norite_chiseled",
+    "up": "simplystonework7513:blocks/norite_chiseled",
+    "north": "simplystonework7513:blocks/norite_chiseled",
+    "east": "simplystonework7513:blocks/norite_chiseled",
+    "south": "simplystonework7513:blocks/norite_chiseled",
+    "west": "simplystonework7513:blocks/norite_chiseled",
+    "particle": "simplystonework7513:blocks/norite_chiseled"
+  }
+}

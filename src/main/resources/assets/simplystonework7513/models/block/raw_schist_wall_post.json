@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "simplystonework7513:blocks/schist_raw",
+    "particle": "simplystonework7513:blocks/schist_raw"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/schist_polished",
+    "top": "simplystonework7513:blocks/schist_polished",
+    "side": "simplystonework7513:blocks/schist_polished"
+  }
+}

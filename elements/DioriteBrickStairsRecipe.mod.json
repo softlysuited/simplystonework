@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DioriteBrickStairs"
+    },
+    "name": "diorite_brick_stairs_recipe",
+    "namespace": "mod"
+  }
+}

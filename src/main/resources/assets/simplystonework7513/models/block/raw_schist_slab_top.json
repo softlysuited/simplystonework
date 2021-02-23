@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/schist_raw",
+    "top": "simplystonework7513:blocks/schist_raw",
+    "side": "simplystonework7513:blocks/schist_raw"
+  }
+}

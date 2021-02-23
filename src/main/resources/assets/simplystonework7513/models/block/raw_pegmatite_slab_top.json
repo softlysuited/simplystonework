@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/peg_raw_new",
+    "top": "simplystonework7513:blocks/peg_raw_new",
+    "side": "simplystonework7513:blocks/peg_raw_new"
+  }
+}

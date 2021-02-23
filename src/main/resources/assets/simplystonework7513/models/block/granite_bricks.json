@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplystonework7513:blocks/granite_bricks",
+    "up": "simplystonework7513:blocks/granite_bricks",
+    "north": "simplystonework7513:blocks/granite_bricks",
+    "east": "simplystonework7513:blocks/granite_bricks",
+    "south": "simplystonework7513:blocks/granite_bricks",
+    "west": "simplystonework7513:blocks/granite_bricks",
+    "particle": "simplystonework7513:blocks/granite_bricks"
+  }
+}

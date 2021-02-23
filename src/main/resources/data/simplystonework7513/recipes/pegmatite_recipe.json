@@ -1,0 +1,16 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simplystonework7513:norite"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "simplystonework7513:pegmatite",
+    "count": 2
+  }
+}

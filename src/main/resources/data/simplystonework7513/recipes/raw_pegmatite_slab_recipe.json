@@ -1,0 +1,22 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:pegmatite"
+    },
+    "1": {
+      "item": "simplystonework7513:pegmatite"
+    },
+    "2": {
+      "item": "simplystonework7513:pegmatite"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:raw_pegmatite_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:norite"
+    },
+    "1": {
+      "item": "simplystonework7513:norite"
+    },
+    "2": {
+      "item": "simplystonework7513:norite"
+    },
+    "3": {
+      "item": "simplystonework7513:norite"
+    },
+    "4": {
+      "item": "simplystonework7513:norite"
+    },
+    "5": {
+      "item": "simplystonework7513:norite"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:raw_norite_wall",
+    "count": 6
+  }
+}

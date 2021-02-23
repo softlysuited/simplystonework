@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "simplystonework7513:blocks/schist_raw",
+    "particle": "simplystonework7513:blocks/schist_raw"
+  }
+}

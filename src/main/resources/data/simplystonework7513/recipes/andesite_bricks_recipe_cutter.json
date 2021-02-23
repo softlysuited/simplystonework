@@ -1,0 +1,9 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "result": "simplystonework7513:andesite_bricks"
+}

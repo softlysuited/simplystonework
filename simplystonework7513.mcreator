@@ -1,0 +1,1767 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Schist",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist"
+    },
+    {
+      "name": "SchistPolished",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished"
+    },
+    {
+      "name": "SchistBrick",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick"
+    },
+    {
+      "name": "SchistChiseled",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_chiseled"
+    },
+    {
+      "name": "RawSchistStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_stairs"
+    },
+    {
+      "name": "RawSchistSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_slab"
+    },
+    {
+      "name": "SchistPolishedStairs",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_stairs"
+    },
+    {
+      "name": "SchistPolishedSlab",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_slab"
+    },
+    {
+      "name": "RawSchistWall",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_wall"
+    },
+    {
+      "name": "SchistBrickStairs",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_stairs"
+    },
+    {
+      "name": "SchistBrickSlab",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_slab"
+    },
+    {
+      "name": "SchistBrickWall",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_wall"
+    },
+    {
+      "name": "Norite",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite"
+    },
+    {
+      "name": "NoritePolished",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished"
+    },
+    {
+      "name": "NoriteBrick",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick"
+    },
+    {
+      "name": "NoriteChiseled",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_chiseled"
+    },
+    {
+      "name": "RawNoriteStairs",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_stairs"
+    },
+    {
+      "name": "RawNoriteSlab",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_slab"
+    },
+    {
+      "name": "Simplystonework",
+      "type": "tab",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "simplystonework"
+    },
+    {
+      "name": "NoritePolishedStairs",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_stairs"
+    },
+    {
+      "name": "NoritePolishedSlab",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_slab"
+    },
+    {
+      "name": "RawNoriteWall",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_wall"
+    },
+    {
+      "name": "NoriteBrickStairs",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_stairs"
+    },
+    {
+      "name": "NoriteBrickSlab",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_slab"
+    },
+    {
+      "name": "NoriteBrickWall",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_wall"
+    },
+    {
+      "name": "Pegmatite",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite"
+    },
+    {
+      "name": "PegmatitePolished",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished"
+    },
+    {
+      "name": "PegmatiteBrick",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick"
+    },
+    {
+      "name": "PegmatiteChiseled",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_chiseled"
+    },
+    {
+      "name": "RawPegmatiteStairs",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_stairs"
+    },
+    {
+      "name": "RawPegmatiteSlab",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_slab"
+    },
+    {
+      "name": "PegmatitePolishedStairs",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_stairs"
+    },
+    {
+      "name": "PegmatitePolishedSlab",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_slab"
+    },
+    {
+      "name": "RawPegmatiteWall",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_wall"
+    },
+    {
+      "name": "PegmatiteBrickStairs",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_stairs"
+    },
+    {
+      "name": "PegmatiteBrickSlab",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_slab"
+    },
+    {
+      "name": "PegmatiteBrickWall",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_wall"
+    },
+    {
+      "name": "Shale",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale"
+    },
+    {
+      "name": "ShalePolished",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished"
+    },
+    {
+      "name": "ShaleBrick",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick"
+    },
+    {
+      "name": "ShaleChiseled",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_chiseled"
+    },
+    {
+      "name": "RawShaleStairs",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_stairs"
+    },
+    {
+      "name": "RawShaleSlab",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_slab"
+    },
+    {
+      "name": "ShalePolishedStairs",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_stairs"
+    },
+    {
+      "name": "ShalePolishedSlab",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_slab"
+    },
+    {
+      "name": "RawShaleWall",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_wall"
+    },
+    {
+      "name": "ShaleBrickStairs",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_stairs"
+    },
+    {
+      "name": "ShaleBrickSlab",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_slab"
+    },
+    {
+      "name": "ShaleBrickWall",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_wall"
+    },
+    {
+      "name": "SchistRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_recipe"
+    },
+    {
+      "name": "SchistPolishedRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_recipe"
+    },
+    {
+      "name": "SchistPolishedRecipeCutter",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_recipe_cutter"
+    },
+    {
+      "name": "SchistBrickRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_recipe"
+    },
+    {
+      "name": "SchistBrickRecipeCutter",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_recipe_cutter"
+    },
+    {
+      "name": "SchistChiseledRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_chiseled_recipe"
+    },
+    {
+      "name": "SchistChiseledRecipeStonecutter",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_chiseled_recipe_stonecutter"
+    },
+    {
+      "name": "RawSchistStairsRecpie",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_stairs_recpie"
+    },
+    {
+      "name": "RawSchistStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_stairs_recipe_cutter"
+    },
+    {
+      "name": "RawSchistSlabRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_slab_recipe"
+    },
+    {
+      "name": "RawSchistSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_slab_recipe_cutter"
+    },
+    {
+      "name": "SchistPolishedStairsRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_stairs_recipe"
+    },
+    {
+      "name": "SchistPolishedStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_stairs_recipe_cutter"
+    },
+    {
+      "name": "SchistPolishedSlabRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_slab_recipe"
+    },
+    {
+      "name": "SchistPolishedSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_polished_slab_recipe_cutter"
+    },
+    {
+      "name": "RawSchistWallRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_wall_recipe"
+    },
+    {
+      "name": "RawSchistWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_schist_wall_recipe_cutter"
+    },
+    {
+      "name": "SchistBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_stairs_recipe"
+    },
+    {
+      "name": "SchistBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "SchistBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_slab_recipe"
+    },
+    {
+      "name": "SchistBrickSlabRecipeStonecutter",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_slab_recipe_stonecutter"
+    },
+    {
+      "name": "SchistBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_wall_recipe"
+    },
+    {
+      "name": "SchistBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schist_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "NoriteRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_recipe"
+    },
+    {
+      "name": "NoritePolishedRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_recipe"
+    },
+    {
+      "name": "NoritePolishedRecipeCutter",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_recipe_cutter"
+    },
+    {
+      "name": "NoriteBrickRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_recipe"
+    },
+    {
+      "name": "NoriteBrickRecipeCutter",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_recipe_cutter"
+    },
+    {
+      "name": "NoriteChiseledRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_chiseled_recipe"
+    },
+    {
+      "name": "NoriteChiseledRecipeCutter",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_chiseled_recipe_cutter"
+    },
+    {
+      "name": "RawNoriteStairsRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_stairs_recipe"
+    },
+    {
+      "name": "RawNoriteStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_stairs_recipe_cutter"
+    },
+    {
+      "name": "RawNoriteSlabRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_slab_recipe"
+    },
+    {
+      "name": "RawNoriteSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_slab_recipe_cutter"
+    },
+    {
+      "name": "NoritePolishedStairsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_stairs_recipe"
+    },
+    {
+      "name": "NoritePolishedStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_stairs_recipe_cutter"
+    },
+    {
+      "name": "NoritePolishedSlabRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_slab_recipe"
+    },
+    {
+      "name": "NoritePolishedSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_polished_slab_recipe_cutter"
+    },
+    {
+      "name": "RawNoriteWallRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_wall_recipe"
+    },
+    {
+      "name": "RawNoriteWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_norite_wall_recipe_cutter"
+    },
+    {
+      "name": "NoriteBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_stairs_recipe"
+    },
+    {
+      "name": "NoriteBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "NoriteBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_slab_recipe"
+    },
+    {
+      "name": "NoriteBrickSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_slab_recipe_cutter"
+    },
+    {
+      "name": "NoriteBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_wall_recipe"
+    },
+    {
+      "name": "NoriteBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "norite_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "PegmatiteRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_recipe"
+    },
+    {
+      "name": "PegmatitePolishedRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_recipe"
+    },
+    {
+      "name": "PegmatitePolishedRecipeCutter",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_recipe_cutter"
+    },
+    {
+      "name": "PegmatiteBrickRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_recipe"
+    },
+    {
+      "name": "PegmatiteBrickRecipeCutter",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_recipe_cutter"
+    },
+    {
+      "name": "PegmatiteChiseledRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_chiseled_recipe"
+    },
+    {
+      "name": "PegmatiteChiseledRecipeCutter",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_chiseled_recipe_cutter"
+    },
+    {
+      "name": "RawPegmatiteStairsRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_stairs_recipe"
+    },
+    {
+      "name": "RawPegmatiteStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_stairs_recipe_cutter"
+    },
+    {
+      "name": "RawPegmatiteSlabRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_slab_recipe"
+    },
+    {
+      "name": "RawPegmatiteSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_slab_recipe_cutter"
+    },
+    {
+      "name": "PegmatitePolishedStairsRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_stairs_recipe"
+    },
+    {
+      "name": "PegmatitePolishedStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_stairs_recipe_cutter"
+    },
+    {
+      "name": "PegmatitePolishedSlabRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_slab_recipe"
+    },
+    {
+      "name": "PegmatitePolishedSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_polished_slab_recipe_cutter"
+    },
+    {
+      "name": "RawPegmatiteWallRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_wall_recipe"
+    },
+    {
+      "name": "RawPegmatiteWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_pegmatite_wall_recipe_cutter"
+    },
+    {
+      "name": "PegmatiteBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_stairs_recipe"
+    },
+    {
+      "name": "PegmatiteBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "PegmatiteBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_slab_recipe"
+    },
+    {
+      "name": "PegmatiteBrickSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_slab_recipe_cutter"
+    },
+    {
+      "name": "PegmatiteBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_wall_recipe"
+    },
+    {
+      "name": "PegmatiteBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pegmatite_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "ShaleRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_recipe"
+    },
+    {
+      "name": "ShalePolishedRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_recipe"
+    },
+    {
+      "name": "ShalePolishedRecipeCutter",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_recipe_cutter"
+    },
+    {
+      "name": "ShaleBrickRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_recipe"
+    },
+    {
+      "name": "ShaleBrickRecipeCutter",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_recipe_cutter"
+    },
+    {
+      "name": "ShaleChiseledRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_chiseled_recipe"
+    },
+    {
+      "name": "ShaleChiseledRecipeCutter",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_chiseled_recipe_cutter"
+    },
+    {
+      "name": "RawShaleStairsRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_stairs_recipe"
+    },
+    {
+      "name": "RawShaleStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_stairs_recipe_cutter"
+    },
+    {
+      "name": "RawShaleSlabRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_slab_recipe"
+    },
+    {
+      "name": "RawShaleSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_slab_recipe_cutter"
+    },
+    {
+      "name": "ShalePolishedStairsRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_stairs_recipe"
+    },
+    {
+      "name": "ShalePolishedStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_stairs_recipe_cutter"
+    },
+    {
+      "name": "ShalePolishedSlabRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_slab_recipe"
+    },
+    {
+      "name": "ShalePolishedSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_polished_slab_recipe_cutter"
+    },
+    {
+      "name": "RawShaleWallRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_wall_recipe"
+    },
+    {
+      "name": "RawShaleWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_shale_wall_recipe_cutter"
+    },
+    {
+      "name": "ShaleBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_stairs_recipe"
+    },
+    {
+      "name": "ShaleBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "ShaleBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_slab_recipe"
+    },
+    {
+      "name": "ShaleBrickSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_slab_recipe_cutter"
+    },
+    {
+      "name": "ShaleBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_wall_recipe"
+    },
+    {
+      "name": "ShaleBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "DioriteBricks",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_bricks"
+    },
+    {
+      "name": "DioriteChiseled",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_chiseled"
+    },
+    {
+      "name": "DioriteBrickStairs",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_stairs"
+    },
+    {
+      "name": "DioriteBrickSlab",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_slab"
+    },
+    {
+      "name": "DioriteBrickWall",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_wall"
+    },
+    {
+      "name": "GraniteBricks",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_bricks"
+    },
+    {
+      "name": "GraniteChiseled",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_chiseled"
+    },
+    {
+      "name": "GraniteBrickStairs",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_stairs"
+    },
+    {
+      "name": "GraniteBrickSlab",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_slab"
+    },
+    {
+      "name": "GraniteBrickWall",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_wall"
+    },
+    {
+      "name": "AndesiteBricks",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_bricks"
+    },
+    {
+      "name": "AndesiteChiseled",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_chiseled"
+    },
+    {
+      "name": "AndesiteBrickStairs",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_stairs"
+    },
+    {
+      "name": "AndesiteBrickSlab",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_slab"
+    },
+    {
+      "name": "AndesiteBrickWall",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_wall"
+    },
+    {
+      "name": "DioriteBricksRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_bricks_recipe"
+    },
+    {
+      "name": "DioriteBricksRecipeCutter",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_bricks_recipe_cutter"
+    },
+    {
+      "name": "DioriteBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_stairs_recipe"
+    },
+    {
+      "name": "DioriteBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "DioriteBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_slab_recipe"
+    },
+    {
+      "name": "DioriteBrickSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_slab_recipe_cutter"
+    },
+    {
+      "name": "DioriteBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_wall_recipe"
+    },
+    {
+      "name": "DioriteBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "DioriteChiseledRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_chiseled_recipe"
+    },
+    {
+      "name": "DioriteChiseledRecipeCutter",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_chiseled_recipe_cutter"
+    },
+    {
+      "name": "GraniteBricksRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_bricks_recipe"
+    },
+    {
+      "name": "GraniteBricksRecipeCutter",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_bricks_recipe_cutter"
+    },
+    {
+      "name": "GraniteBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_stairs_recipe"
+    },
+    {
+      "name": "GraniteBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "GraniteBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_slab_recipe"
+    },
+    {
+      "name": "GraniteBrickSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_slab_recipe_cutter"
+    },
+    {
+      "name": "GraniteBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_wall_recipe"
+    },
+    {
+      "name": "GraniteBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "GraniteChiseledRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_chiseled_recipe"
+    },
+    {
+      "name": "GraniteChiseledRecipeCutter",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_chiseled_recipe_cutter"
+    },
+    {
+      "name": "AndesiteBricksRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_bricks_recipe"
+    },
+    {
+      "name": "AndesiteBricksRecipeCutter",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_bricks_recipe_cutter"
+    },
+    {
+      "name": "AndesiteBrickStairsRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_stairs_recipe"
+    },
+    {
+      "name": "AndesiteBrickStairsRecipeCutter",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_stairs_recipe_cutter"
+    },
+    {
+      "name": "AndesiteBrickSlabRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_slab_recipe"
+    },
+    {
+      "name": "AndesiteBrickSlabRecipeCutter",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_slab_recipe_cutter"
+    },
+    {
+      "name": "AndesiteBrickWallRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_wall_recipe"
+    },
+    {
+      "name": "AndesiteBrickWallRecipeCutter",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_brick_wall_recipe_cutter"
+    },
+    {
+      "name": "AndesiteChiseledRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_chiseled_recipe"
+    },
+    {
+      "name": "AndesiteChiseledRecipeCutter",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_chiseled_recipe_cutter"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.simplystonework7513.shale_polished_stairs": "Polished Shale Stairs",
+      "itemGroup.tabsimplystonework": "Simply Stonework",
+      "block.simplystonework7513.andesite_brick_wall": "Andesite Brick Wall",
+      "block.simplystonework7513.pegmatite_polished_slab": "Polished Pegmatite Slab",
+      "block.simplystonework7513.raw_schist_stairs": "Schist Stairs",
+      "block.simplystonework7513.raw_norite_slab": "Raw Norite Slab",
+      "block.simplystonework7513.shale_brick": "Shale Bricks",
+      "block.simplystonework7513.raw_schist_wall": "Schist Wall",
+      "block.simplystonework7513.andesite_brick_slab": "Andesite Brick Slab",
+      "block.simplystonework7513.diorite_bricks": "Diorite Bricks",
+      "block.simplystonework7513.schist_polished_slab": "Polished Schist Slab",
+      "block.simplystonework7513.raw_norite_wall": "Norite Wall",
+      "block.simplystonework7513.raw_shale_slab": "Raw Shale Slab",
+      "block.simplystonework7513.pegmatite_polished": "Polished Pegmatite",
+      "block.simplystonework7513.schist_polished_stairs": "Polished Schist Stairs",
+      "block.simplystonework7513.raw_shale_wall": "Shale Wall",
+      "block.simplystonework7513.schist_chiseled": "Chiseled Schist Bricks",
+      "block.simplystonework7513.norite_chiseled": "Chiseled Norite",
+      "block.simplystonework7513.shale_polished_slab": "Polished Shale Slab",
+      "block.simplystonework7513.raw_norite_stairs": "Norite Stairs",
+      "block.simplystonework7513.shale_chiseled": "Chiseled Shale",
+      "block.simplystonework7513.pegmatite_chiseled": "Chiseled Pegmatite",
+      "block.simplystonework7513.pegmatite_polished_stairs": "Polished Pegmatite Stairs",
+      "block.simplystonework7513.shale_polished": "Polished Shale",
+      "block.simplystonework7513.raw_shale_stairs": "Shale Stairs",
+      "block.simplystonework7513.andesite_brick_stairs": "Andesite Brick Stairs",
+      "block.simplystonework7513.diorite_chiseled": "Chiseled Diorite",
+      "block.simplystonework7513.schist_brick": "Schist Bricks",
+      "block.simplystonework7513.norite_brick_stairs": "Norite Brick Stairs",
+      "block.simplystonework7513.schist_brick_wall": "Schist Brick Wall",
+      "block.simplystonework7513.andesite_bricks": "Andesite Bricks",
+      "block.simplystonework7513.andesite_chiseled": "Chiseled Andesite",
+      "block.simplystonework7513.diorite_brick_wall": "Diorite Brick Wall",
+      "block.simplystonework7513.granite_chiseled": "Chiseled Granite",
+      "block.simplystonework7513.schist": "Schist",
+      "block.simplystonework7513.diorite_brick_slab": "Diorite Brick Slab",
+      "block.simplystonework7513.norite_brick": "Norite Bricks",
+      "block.simplystonework7513.schist_brick_slab": "Schist Brick Slab",
+      "block.simplystonework7513.norite_polished": "Polished Norite",
+      "block.simplystonework7513.norite_polished_slab": "Polished Norite Slab",
+      "block.simplystonework7513.shale_brick_slab": "Shale Brick Slab",
+      "block.simplystonework7513.granite_brick_wall": "Granite Brick Wall",
+      "block.simplystonework7513.schist_polished": "Polished Schist",
+      "block.simplystonework7513.norite_polished_stairs": "Polished Norite Stairs",
+      "block.simplystonework7513.norite": "Norite",
+      "block.simplystonework7513.raw_pegmatite_stairs": "Pegmatite Stairs",
+      "block.simplystonework7513.diorite_brick_stairs": "Diorite Brick Stairs",
+      "block.simplystonework7513.granite_brick_slab": "Granite Brick Slab",
+      "block.simplystonework7513.shale": "Shale",
+      "block.simplystonework7513.shale_brick_wall": "Shale Brick Wall",
+      "block.simplystonework7513.raw_schist_slab": "Schist Slab",
+      "block.simplystonework7513.norite_brick_slab": "Norite Brick Slab",
+      "block.simplystonework7513.raw_pegmatite_wall": "Pegmatite Wall",
+      "block.simplystonework7513.pegmatite_brick_wall": "Pegmatite Brick Wall",
+      "block.simplystonework7513.schist_brick_stairs": "Schist Brick Stairs",
+      "block.simplystonework7513.granite_brick_stairs": "Granite Brick Stairs",
+      "block.simplystonework7513.pegmatite_brick": "Pegmatite Bricks",
+      "block.simplystonework7513.shale_brick_stairs": "Shale Brick Stairs",
+      "block.simplystonework7513.pegmatite_brick_slab": "Pegmatite Brick Slab",
+      "block.simplystonework7513.norite_brick_wall": "Norite Brick Wall",
+      "block.simplystonework7513.pegmatite_brick_stairs": "Pegmatite Brick Stairs",
+      "block.simplystonework7513.granite_bricks": "Granite Bricks",
+      "block.simplystonework7513.pegmatite": "Pegmatite",
+      "block.simplystonework7513.raw_pegmatite_slab": "Pegmatite Slab"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "simplystonework7513",
+    "modName": "Simply Stonework",
+    "version": "1.0.0",
+    "author": "joehempelmann, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.simplystonework",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

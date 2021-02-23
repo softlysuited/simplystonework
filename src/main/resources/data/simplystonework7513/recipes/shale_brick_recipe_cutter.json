@@ -1,0 +1,9 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "simplystonework7513:shale"
+  },
+  "result": "simplystonework7513:shale_brick"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "simplystonework7513:norite_polished"
+  },
+  "result": "simplystonework7513:norite_polished_slab"
+}

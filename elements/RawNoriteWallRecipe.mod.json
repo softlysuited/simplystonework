@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Norite"
+      },
+      {
+        "value": "CUSTOM:Norite"
+      },
+      {
+        "value": "CUSTOM:Norite"
+      },
+      {
+        "value": "CUSTOM:Norite"
+      },
+      {
+        "value": "CUSTOM:Norite"
+      },
+      {
+        "value": "CUSTOM:Norite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RawNoriteWall"
+    },
+    "name": "raw_norite_wall_recipe",
+    "namespace": "mod"
+  }
+}

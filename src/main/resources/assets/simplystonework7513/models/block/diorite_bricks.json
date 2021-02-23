@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplystonework7513:blocks/diorite_bricks",
+    "up": "simplystonework7513:blocks/diorite_bricks",
+    "north": "simplystonework7513:blocks/diorite_bricks",
+    "east": "simplystonework7513:blocks/diorite_bricks",
+    "south": "simplystonework7513:blocks/diorite_bricks",
+    "west": "simplystonework7513:blocks/diorite_bricks",
+    "particle": "simplystonework7513:blocks/diorite_bricks"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_diorite"
+    },
+    "1": {
+      "item": "minecraft:polished_diorite"
+    },
+    "2": {
+      "item": "minecraft:polished_diorite"
+    },
+    "3": {
+      "item": "minecraft:polished_diorite"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:diorite_bricks",
+    "count": 4
+  }
+}

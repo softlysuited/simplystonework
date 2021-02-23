@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplystonework7513:blocks/chiseled_schist",
+    "up": "simplystonework7513:blocks/chiseled_schist",
+    "north": "simplystonework7513:blocks/chiseled_schist",
+    "east": "simplystonework7513:blocks/chiseled_schist",
+    "south": "simplystonework7513:blocks/chiseled_schist",
+    "west": "simplystonework7513:blocks/chiseled_schist",
+    "particle": "simplystonework7513:blocks/chiseled_schist"
+  }
+}

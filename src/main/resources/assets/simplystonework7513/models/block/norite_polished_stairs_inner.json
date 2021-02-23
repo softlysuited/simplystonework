@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/norite_polished",
+    "top": "simplystonework7513:blocks/norite_polished",
+    "side": "simplystonework7513:blocks/norite_polished"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "Simply Stonework",
+    "icon": {
+      "value": "CUSTOM:Schist"
+    },
+    "showSearch": true
+  }
+}

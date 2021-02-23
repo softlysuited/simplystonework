@@ -1,0 +1,32 @@
+{
+  "group": "simplystonework7513",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "simplystonework7513:pegmatite_brick"
+    },
+    "1": {
+      "item": "simplystonework7513:pegmatite_brick"
+    },
+    "2": {
+      "item": "simplystonework7513:pegmatite_brick"
+    },
+    "3": {
+      "item": "simplystonework7513:pegmatite_brick"
+    },
+    "4": {
+      "item": "simplystonework7513:pegmatite_brick"
+    },
+    "5": {
+      "item": "simplystonework7513:pegmatite_brick"
+    }
+  },
+  "result": {
+    "item": "simplystonework7513:pegmatite_brick_wall",
+    "count": 6
+  }
+}

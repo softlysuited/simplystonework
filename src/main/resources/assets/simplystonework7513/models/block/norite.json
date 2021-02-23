@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplystonework7513:blocks/norite_raw",
+    "up": "simplystonework7513:blocks/norite_raw",
+    "north": "simplystonework7513:blocks/norite_raw",
+    "east": "simplystonework7513:blocks/norite_raw",
+    "south": "simplystonework7513:blocks/norite_raw",
+    "west": "simplystonework7513:blocks/norite_raw",
+    "particle": "simplystonework7513:blocks/norite_raw"
+  }
+}

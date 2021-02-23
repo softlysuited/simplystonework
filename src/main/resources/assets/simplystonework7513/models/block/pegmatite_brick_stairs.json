@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/peg_bricks_new",
+    "top": "simplystonework7513:blocks/peg_bricks_new",
+    "side": "simplystonework7513:blocks/peg_bricks_new"
+  }
+}

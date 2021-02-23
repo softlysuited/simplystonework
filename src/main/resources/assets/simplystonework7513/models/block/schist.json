@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplystonework7513:blocks/schist_raw",
+    "up": "simplystonework7513:blocks/schist_raw",
+    "north": "simplystonework7513:blocks/schist_raw",
+    "east": "simplystonework7513:blocks/schist_raw",
+    "south": "simplystonework7513:blocks/schist_raw",
+    "west": "simplystonework7513:blocks/schist_raw",
+    "particle": "simplystonework7513:blocks/schist_raw"
+  }
+}

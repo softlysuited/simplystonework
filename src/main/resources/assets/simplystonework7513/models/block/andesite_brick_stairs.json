@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "simplystonework7513:blocks/andesite_bricks",
+    "top": "simplystonework7513:blocks/andesite_bricks",
+    "side": "simplystonework7513:blocks/andesite_bricks"
+  }
+}
